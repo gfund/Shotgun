@@ -1,0 +1,9 @@
+Storage clearing needed ask Space
+
+time setters
+make switch modifier
+add command exception handling
+add notes with folders
+
+
+
